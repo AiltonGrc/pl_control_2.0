@@ -1,0 +1,1 @@
+Implement threads to keep UI navigable during looping and measurement.
